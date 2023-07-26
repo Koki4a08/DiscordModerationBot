@@ -1,6 +1,6 @@
 # DiscordModerationBot 🤖
 
-#commands 👾
+# commands 👾
  - !announce
  - clear
  - kick
